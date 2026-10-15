@@ -1,4 +1,4 @@
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hello, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 My name is **Zain Ul Abidin** and I'm a **Flutter & Full Stack Developer** with 5+ years of production experience. I'm from Pakistan 🇵🇰, and I build mobile and web apps that ship, scale, and don't break the moment real users show up.
 
